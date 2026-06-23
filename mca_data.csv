@@ -1,0 +1,77 @@
+id,pt_gender,race,marital_status,householdsize,education,householdincome,ownhome,employed,anytrial,cancertype,midwestcity,proactive,age,schedule_work,schedule_family,schedule_organization,trajectory_medical,trajectory_economic,anticipant
+4020,male,white,Married/Partnered,Small_Family,Bachelor's Degree,Above 100k,homeowner,not_working,0,Gastrointestinal,0,proactive,"[28,50)",0,1,0,1,0,1
+4021,male,white,NeverMarried,Small_Family,Associate/Vocational or Some College,Below 20K,nonhomeowner,not_working,0,Gastrointestinal,0,proactive,"[28,50)",0,1,0,1,0,0
+4022,male,asian,Married/Partnered,Large_Family,Bachelor's Degree,Above 100k,homeowner,not_working,0,Gastrointestinal,0,proactive,"[28,50)",0,0,0,1,1,0
+4023,male,hispanic white,Married/Partnered,Medium_Family,Bachelor's Degree,40K-60K,nonhomeowner,working_fulltime,1,Gastrointestinal,0,proactive,"[28,50)",0,1,1,1,0,1
+4039,male,hispanic white,NeverMarried,Small_Family,Bachelor's Degree,Above 100k,homeowner,working_fulltime,1,Gastrointestinal,0,proactive,"[28,50)",0,0,1,0,0,1
+4040,male,white,Divorced/Separated,Small_Family,Bachelor's Degree,Above 100k,homeowner,working_fulltime,0,Gastrointestinal,0,proactive,"[65,80)",1,0,0,0,0,0
+4058,female,white,Married/Partnered,Small_Family,Associate/Vocational or Some College,80K-100K,homeowner,not_working,1,Breast,0,proactive,"[50,65)",0,1,1,0,1,1
+4059,female,white,NeverMarried,Small_Family,Graduate Degree,40K-60K,homeowner,not_working,0,Breast,0,proactive,"[50,65)",0,0,0,0,1,1
+7024,male,asian,Married/Partnered,Medium_Family,Associate/Vocational or Some College,60K-80K,homeowner,not_working,1,Gastrointestinal,0,defensive,"[50,65)",0,1,0,0,0,0
+7025,male,white,NeverMarried,Small_Family,Associate/Vocational or Some College,Below 20K,homeowner,not_working,1,Gastrointestinal,0,proactive,"[50,65)",0,0,0,1,0,1
+7027,female,white,Married/Partnered,Small_Family,Graduate Degree,Above 100k,homeowner,working_parttime,1,Breast,0,proactive,"[65,80)",0,0,0,0,0,0
+7031,male,white,Married/Partnered,Medium_Family,Graduate Degree,Above 100k,homeowner,working_parttime,1,Gastrointestinal,0,proactive,"[50,65)",1,0,0,0,0,0
+7032,female,white,Married/Partnered,Small_Family,Bachelor's Degree,Above 100k,homeowner,not_working,1,Gastrointestinal,0,proactive,"[50,65)",0,0,1,1,0,1
+7034,male,asian,Married/Partnered,Small_Family,Graduate Degree,Above 100k,homeowner,not_working,0,Gastrointestinal,0,proactive,"[50,65)",0,0,1,0,0,1
+7036,male,white,Married/Partnered,Small_Family,Bachelor's Degree,Above 100k,homeowner,working_parttime,1,Gastrointestinal,0,proactive,"[65,80)",0,0,0,1,0,1
+7037,female,asian,Divorced/Separated,Medium_Family,Associate/Vocational or Some College,Below 20K,nonhomeowner,not_working,1,Gastrointestinal,0,proactive,"[50,65)",1,0,1,0,1,0
+7038,female,mixed,Divorced/Separated,Medium_Family,High School or Less,Below 20K,homeowner,not_working,1,Gastrointestinal,0,defensive,"[65,80)",0,1,0,0,0,0
+7042,female,white,Married/Partnered,Small_Family,Associate/Vocational or Some College,40K-60K,homeowner,working_parttime,1,Gastrointestinal,0,proactive,"[50,65)",0,0,1,1,1,0
+7044,male,asian,Married/Partnered,Medium_Family,Graduate Degree,Above 100k,homeowner,not_working,1,Gastrointestinal,0,proactive,"[50,65)",0,0,0,1,1,1
+7046,male,white,Married/Partnered,Small_Family,Associate/Vocational or Some College,Above 100k,homeowner,not_working,1,Gastrointestinal,0,proactive,"[65,80)",0,0,1,0,0,1
+7047,male,asian,Married/Partnered,Small_Family,Bachelor's Degree,Above 100k,homeowner,working_parttime,1,Gastrointestinal,0,proactive,"[50,65)",0,0,1,0,1,0
+7049,female,white,Married/Partnered,Medium_Family,Graduate Degree,Above 100k,homeowner,working_parttime,1,Breast,0,defensive,"[50,65)",0,1,0,0,1,0
+7054,male,white,Divorced/Separated,Medium_Family,Associate/Vocational or Some College,60K-80K,homeowner,not_working,1,Melanoma,0,proactive,"[50,65)",0,1,0,0,1,0
+7056,male,mixed,Married/Partnered,Small_Family,High School or Less,60K-80K,homeowner,not_working,0,Melanoma,0,defensive,"[65,80)",0,0,0,1,0,0
+7060,female,white,Married/Partnered,Small_Family,Bachelor's Degree,20K-40K,homeowner,not_working,1,Breast,0,proactive,"[50,65)",0,0,1,0,1,1
+7061,female,mixed,NeverMarried,Small_Family,Graduate Degree,Below 20K,nonhomeowner,not_working,0,Breast,0,proactive,"[28,50)",0,0,0,0,1,0
+7064,female,white,Married/Partnered,Medium_Family,Associate/Vocational or Some College,40K-60K,homeowner,not_working,1,Melanoma,0,proactive,"[28,50)",0,0,0,1,0,1
+7065,female,white,Married/Partnered,Small_Family,Graduate Degree,80K-100K,homeowner,not_working,1,Melanoma,0,proactive,"[65,80)",0,1,1,0,0,0
+7067,male,white,Married/Partnered,Small_Family,Graduate Degree,Above 100k,homeowner,not_working,1,Gastrointestinal,0,proactive,"[65,80)",0,0,1,0,0,1
+7068,female,asian,Married/Partnered,Small_Family,Graduate Degree,40K-60K,homeowner,not_working,0,Gastrointestinal,0,proactive,"[65,80)",0,1,1,0,0,0
+7069,female,asian,Married/Partnered,Medium_Family,Graduate Degree,Above 100k,homeowner,not_working,1,Breast,0,proactive,"[50,65)",0,0,1,1,0,1
+7071,male,white,Married/Partnered,Small_Family,Associate/Vocational or Some College,40K-60K,homeowner,working_parttime,1,Melanoma,0,defensive,"[65,80)",1,1,1,1,0,1
+7072,male,white,Married/Partnered,Small_Family,Graduate Degree,Above 100k,homeowner,not_working,1,Melanoma,0,proactive,"[65,80)",0,0,0,1,1,1
+7075,female,white,Married/Partnered,Medium_Family,Graduate Degree,Above 100k,homeowner,working_fulltime,0,Breast,0,proactive,"[50,65)",1,0,0,0,0,0
+7078,female,white,Divorced/Separated,Medium_Family,High School or Less,40K-60K,nonhomeowner,not_working,1,Melanoma,0,proactive,"[28,50)",0,1,1,0,1,0
+7083,female,white,Divorced/Separated,Small_Family,Associate/Vocational or Some College,Above 100k,homeowner,not_working,0,Melanoma,0,proactive,"[65,80)",0,0,1,0,0,1
+7085,female,white,Married/Partnered,Small_Family,High School or Less,40K-60K,homeowner,not_working,0,Melanoma,0,proactive,"[50,65)",1,0,1,1,0,0
+7086,male,white,Married/Partnered,Small_Family,Graduate Degree,Above 100k,homeowner,working_parttime,1,Melanoma,0,proactive,"[65,80)",0,0,1,1,0,1
+7088,female,mixed,Divorced/Separated,Small_Family,Associate/Vocational or Some College,Below 20K,nonhomeowner,not_working,0,Breast,0,proactive,"[50,65)",0,0,0,0,0,0
+7089,female,black,Divorced/Separated,Small_Family,Bachelor's Degree,20K-40K,nonhomeowner,not_working,0,Breast,0,defensive,"[50,65)",0,1,0,0,0,0
+7093,female,white,Married/Partnered,Small_Family,Graduate Degree,40K-60K,homeowner,not_working,1,Breast,0,proactive,"[65,80)",0,1,1,0,1,0
+7102,female,asian,Married/Partnered,Small_Family,Bachelor's Degree,Above 100k,homeowner,working_parttime,1,Breast,0,proactive,"[65,80)",0,0,0,1,0,1
+7105,male,white,Married/Partnered,Medium_Family,High School or Less,80K-100K,nonhomeowner,not_working,0,Gastrointestinal,0,proactive,"[50,65)",0,0,1,1,1,1
+7107,female,white,NeverMarried,Small_Family,Graduate Degree,80K-100K,homeowner,working_fulltime,0,Breast,0,proactive,"[50,65)",1,0,1,0,1,1
+7501,male,white,Divorced/Separated,Small_Family,Graduate Degree,60K-80K,homeowner,working_parttime,1,Genitourinary,0,proactive,"[80,95]",0,0,0,1,0,1
+7502,male,white,Married/Partnered,Small_Family,Associate/Vocational or Some College,60K-80K,homeowner,not_working,1,Melanoma,0,proactive,"[28,50)",0,1,1,1,0,0
+7505,male,white,Married/Partnered,Small_Family,Bachelor's Degree,20K-40K,homeowner,not_working,1,Genitourinary,0,proactive,"[28,50)",0,0,1,0,0,0
+7511,male,white,Married/Partnered,Small_Family,Graduate Degree,Above 100k,homeowner,working_fulltime,1,Genitourinary,0,proactive,"[50,65)",0,1,0,1,1,1
+7512,male,white,Married/Partnered,Medium_Family,Bachelor's Degree,80K-100K,homeowner,not_working,0,Genitourinary,0,defensive,"[28,50)",1,0,0,0,0,0
+7513,male,white,Married/Partnered,Medium_Family,High School or Less,20K-40K,nonhomeowner,not_working,1,Genitourinary,0,defensive,"[65,80)",0,1,0,0,0,0
+7515,male,white,Married/Partnered,Small_Family,Graduate Degree,Above 100k,homeowner,not_working,1,Genitourinary,0,defensive,"[50,65)",0,0,0,0,0,0
+7516,male,white,Married/Partnered,Small_Family,Graduate Degree,Above 100k,homeowner,not_working,1,Genitourinary,0,proactive,"[65,80)",0,1,0,1,0,1
+7518,male,white,Married/Partnered,Medium_Family,Bachelor's Degree,Above 100k,homeowner,working_fulltime,0,Genitourinary,0,proactive,"[65,80)",0,1,0,1,0,1
+7519,male,white,Married/Partnered,Small_Family,Graduate Degree,Above 100k,homeowner,working_parttime,1,Genitourinary,0,proactive,"[65,80)",0,0,0,0,0,0
+7520,female,asian,Married/Partnered,Small_Family,Bachelor's Degree,40K-60K,homeowner,working_parttime,1,Gastrointestinal,0,proactive,"[65,80)",0,0,0,1,0,1
+7522,male,white,Divorced/Separated,Small_Family,Graduate Degree,80K-100K,homeowner,not_working,0,Genitourinary,0,proactive,"[65,80)",0,0,1,1,0,1
+7527,male,asian,Married/Partnered,Medium_Family,Bachelor's Degree,Above 100k,nonhomeowner,working_fulltime,1,Genitourinary,0,defensive,"[50,65)",1,0,0,0,1,1
+7528,male,white,Married/Partnered,Small_Family,Bachelor's Degree,Above 100k,homeowner,working_fulltime,0,Genitourinary,0,proactive,"[65,80)",0,0,1,0,0,1
+7529,male,white,Married/Partnered,Small_Family,Associate/Vocational or Some College,40K-60K,homeowner,not_working,1,Genitourinary,0,proactive,"[50,65)",0,1,0,1,0,1
+7532,male,white,Married/Partnered,Small_Family,Bachelor's Degree,Above 100k,nonhomeowner,not_working,1,Genitourinary,0,proactive,"[65,80)",0,1,0,0,0,0
+7535,male,white,Married/Partnered,Medium_Family,Associate/Vocational or Some College,Above 100k,homeowner,not_working,1,Genitourinary,0,proactive,"[50,65)",1,0,1,1,1,1
+10002,male,black,Married/Partnered,Medium_Family,High School or Less,40K-60K,homeowner,not_working,0,Gastrointestinal,1,proactive,"[50,65)",1,1,0,0,0,0
+10003,female,black,NeverMarried,Medium_Family,Associate/Vocational or Some College,80K-100K,homeowner,not_working,0,Gastrointestinal,1,proactive,"[50,65)",0,0,0,0,0,0
+10004,male,white,Married/Partnered,Small_Family,Associate/Vocational or Some College,Above 100k,homeowner,not_working,0,Lung,1,proactive,"[50,65)",0,0,0,0,0,0
+10006,female,white,Widowed,Small_Family,Associate/Vocational or Some College,20K-40K,homeowner,not_working,1,Lung,1,proactive,"[65,80)",0,0,0,0,1,0
+10011,male,hispanic white,Divorced/Separated,Medium_Family,Associate/Vocational or Some College,20K-40K,nonhomeowner,not_working,0,Gastrointestinal,1,proactive,"[65,80)",0,1,1,0,1,0
+10013,male,white,Married/Partnered,Small_Family,Graduate Degree,80K-100K,homeowner,not_working,1,Gastrointestinal,1,proactive,"[65,80)",1,0,0,0,1,0
+10017,male,white,Married/Partnered,Medium_Family,Associate/Vocational or Some College,60K-80K,homeowner,not_working,1,Genitourinary,1,proactive,"[50,65)",1,0,0,1,0,0
+10018,male,white,Married/Partnered,Medium_Family,Graduate Degree,Above 100k,homeowner,working_fulltime,1,Genitourinary,1,proactive,"[50,65)",0,0,1,1,0,0
+10020,female,white,Married/Partnered,Small_Family,Bachelor's Degree,Above 100k,homeowner,not_working,1,Gynecologic,1,proactive,"[50,65)",0,0,0,1,0,1
+10021,female,black,Widowed,Medium_Family,High School or Less,20K-40K,homeowner,not_working,0,Gynecologic,1,proactive,"[50,65)",0,0,0,0,0,0
+10023,male,white,Married/Partnered,Small_Family,Bachelor's Degree,Above 100k,homeowner,not_working,1,Genitourinary,1,proactive,"[80,95]",0,0,0,0,0,0
+10024,male,black,Divorced/Separated,Small_Family,Graduate Degree,20K-40K,homeowner,working_parttime,0,Genitourinary,1,proactive,"[50,65)",0,0,0,0,1,0
+10026,female,white,Married/Partnered,Large_Family,Associate/Vocational or Some College,Above 100k,homeowner,working_fulltime,0,Gastrointestinal,1,proactive,"[28,50)",0,0,0,1,0,0
+10027,male,white,Married/Partnered,Large_Family,Bachelor's Degree,Above 100k,homeowner,working_fulltime,1,Genitourinary,1,defensive,"[28,50)",1,1,1,0,0,1
+10028,female,white,Married/Partnered,Small_Family,High School or Less,40K-60K,homeowner,not_working,1,Genitourinary,1,defensive,"[65,80)",0,0,0,0,0,1
