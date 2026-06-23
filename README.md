@@ -41,7 +41,7 @@ variables.
 
 | Variable | Values | Role in MCA |
 | --- | --- | --- |
-| `id` | participant identifier | row label (not analyzed) |
+| `id` | participant identifier | |
 | `householdsize` | Small_Family, Medium_Family, Large_Family | **active** |
 | `education` | High School or Less; Associate/Vocational or Some College; Bachelor's Degree; Graduate Degree | **active** |
 | `householdincome` | Below 20K; 20K-40K; 40K-60K; 60K-80K; 80K-100K; Above 100k | **active** |
@@ -62,7 +62,7 @@ variables.
 | `proactive` | proactive, defensive | supplementary |
 | `age` | [28,50), [50,65), [65,80), [80,95] | supplementary |
 
-**Derived analysis variables** (constructed in `mca_script.R`):
+**Constructing temporal misalignment variables**:
 
 | Variable | Definition |
 | --- | --- |
